@@ -3,7 +3,7 @@
 * Assignment Title:  Array of Spheres
 * Assignment Description: You have been hired by a data
 *       processing company to help clean up a big mess. The last person
-*       in charge of all the company’s data mixed the information from
+*       in charge of all the companyâ€™s data mixed the information from
 *       three different accounts into a single file. Your job is to open
 *       the data file and separate the data into the original data files.
 *
