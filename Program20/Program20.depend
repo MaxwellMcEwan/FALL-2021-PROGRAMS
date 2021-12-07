@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1635457255 source:c:\users\maxwe\onedrive\documents\csi1430\program20\main.cpp
+	<iostream>
+	<iomanip>
+	"myFunctions.h"
+
+1635454611 c:\users\maxwe\onedrive\documents\csi1430\program20\myfunctions.cpp
+	"myFunctions.h"
+
+1635454578 c:\users\maxwe\onedrive\documents\csi1430\program20\myfunctions.h
+
+1635454611 source:c:\users\maxwe\onedrive\documents\csi1430\program20\myfunctions.cpp
+	"myFunctions.h"
+

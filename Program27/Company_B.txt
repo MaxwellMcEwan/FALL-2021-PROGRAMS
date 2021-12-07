@@ -1,0 +1,8 @@
+Big Data Account Information            
+Account Number  Amount  W/D Transaction Code
+373 765.64 W DC85
+356 364.35 D DC104
+331 317.98 D DC140
+362 221.38 D DC57
+318 470.21 D DC47
+377 602.94 W DC209

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1635883184 source:c:\users\maxwe\onedrive\documents\csi1430\program22\sphere.cpp
+	"Sphere.h"
+
+1635884825 c:\users\maxwe\onedrive\documents\csi1430\program22\sphere.h
+	<cmath>
+	<string>
+
+1636931524 source:c:\users\maxwe\onedrive\documents\csi1430\program25\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	"Sphere.h"
+
+1635884825 c:\users\maxwe\onedrive\documents\csi1430\program25\sphere.h
+	<cmath>
+	<string>
+

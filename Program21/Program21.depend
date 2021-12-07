@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635797542 source:c:\users\maxwe\onedrive\documents\csi1430\program21\main.cpp
+	<iostream>
+	"Point.h"
+
+1635797051 source:c:\users\maxwe\onedrive\documents\csi1430\program21\point.cpp
+	"Point.h"
+
+1635798475 c:\users\maxwe\onedrive\documents\csi1430\program21\point.h
+	<fstream>
+	<cmath>
+

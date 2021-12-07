@@ -1,0 +1,10 @@
+Big Data Account Information            
+Account Number  Amount  W/D Transaction Code
+296 832.01 W DC0
+212 214.96 D DC58
+209 464.81 D DC58
+235 403.51 D DC231
+227 978.05 W DC208
+219 755.75 W DC208
+247 668.36 W DC107
+275 123.76 D DC121

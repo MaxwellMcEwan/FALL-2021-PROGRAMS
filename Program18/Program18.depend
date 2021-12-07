@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634840686 source:c:\users\maxwe\onedrive\documents\csi1430\program18\main.cpp
+	<iostream>
+	"Cstring.cpp"
+
+1634842578 c:\users\maxwe\onedrive\documents\csi1430\program18\cstring.cpp
+	"myFunctions.h"
+
+1634746455 c:\users\maxwe\onedrive\documents\csi1430\program18\myfunctions.h
+
