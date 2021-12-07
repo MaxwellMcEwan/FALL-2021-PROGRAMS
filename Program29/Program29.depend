@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1638218798 source:c:\users\maxwe\onedrive\documents\csi1430\program29\classfunctions.cpp
+	"classFunctions.h"
+
+1638218929 c:\users\maxwe\onedrive\documents\csi1430\program29\classfunctions.h
+	<iostream>
+	<iomanip>
+	<string>
+
+1638156115 source:c:\users\maxwe\onedrive\documents\csi1430\program29\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"classFunctions.h"
+
