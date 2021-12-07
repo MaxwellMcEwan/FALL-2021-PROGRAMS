@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632249236 source:c:\users\maxwe\onedrive\documents\csi1430\program9\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
